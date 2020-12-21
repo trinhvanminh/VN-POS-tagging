@@ -1,0 +1,20 @@
+POS TAGS:
+
+A - Tính từ
+C - Quan hệ từ
+E - Giới từ
+I - Thán từ
+L - Lượng từ
+M - Số
+N - Danh từ chung
+Nc - Bộ phân loại danh từ
+Ny - Viết tắt danh từ
+Np - Danh từ riêng
+Nu - Danh từ đơn vị
+P - Đại từ
+R - Trạng từ
+S - Kết hợp phụ
+T - Từ phụ, bổ ngữ
+V - Động từ
+X - Không xác định
+F - Đã lọc ra (dấu chấm câu)
